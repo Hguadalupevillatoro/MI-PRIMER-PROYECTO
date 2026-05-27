@@ -1,3 +1,35 @@
 <!DOCTYPE html>
 <html>
+<head>
+    <title>Control de Asignaturas - UTEC</title>
+</head>
+<body>
+
+    <!-- Encabezado del Estudiante -->
+    <h1>Registro Académico de : HILDA GUADALUPE VILLATORO DE PÉREZ</h1>
+    <p><strong>Institución:</strong> Universidad Tecnológia de El Salvador</p>
+    <p><strong>Ciclo Lectivo:</strong> 1-2026</p>
+
+    <!-- Tabla de Control de Asignaturas -->
+    <h2>Incripción de Materias Actuales</h2>
+
+    <table border="1" cellpadding="8" style="border-collapse:
+collapse; width: 100%; text-align: left;">
+    <thead style="background-color: #f2f2f2;">
+       <tr>
+         <th>Código de Materia>/th>
+         <th>Nombre de la Asignatura</th>
+         <th>Sección</th>
+         <th>Días / Horario de Clase</th>
+       </tr>
+  </thead>
+<tbody>
+      <tr>
+           <td>PEL-E</td>
+           <td><strong>Pensamiento Lógico</strong></td>
+           <td>01</td>
+           <td>Lunes y Miércoles (06:40 - 08:10 AM)</td>
+      </tr>
+      <tr>
+           <td>
 
